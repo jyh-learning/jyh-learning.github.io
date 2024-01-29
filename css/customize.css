@@ -1,0 +1,22 @@
+#layout-menu {
+	width: 150px;
+}
+
+dl {
+    margin-left: 2em;
+}
+
+dl a {
+	color: #021b6d;
+}
+dl {
+	color: #222222;
+}
+
+html {
+	font-size:1.1rem;
+}
+
+p{
+	line-height:1.5
+}
