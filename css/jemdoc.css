@@ -92,13 +92,12 @@ div#subtitle {
 @media print {
 	#layout-menu { display: none; }
 }
-
-
-/*border: 1px solid red;*/
-/* p, li, dt, dd, div, pre, h1, h2, h3, h4, h5, h6 {
-
-} */
 /* Debug borders */
+p, li, dt, dd, div, pre, h1, h2, h3, h4, h5, h6 {
+
+	/*border: 1px solid red;*/
+
+}
 
 body {
 	margin: 0;
