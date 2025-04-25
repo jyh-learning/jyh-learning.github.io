@@ -1,0 +1,21 @@
+<li>
+                        <p>[IJCAI] Yuheng Xie, Fuchao Yang, Yuheng Jia, 
+                                Partial Label Clustering</a>,
+                                International Joint Conference on Artiﬁcial Intelligence (IJCAI), Montreal, 16th – 22nd August, 2025. 
+                                </p>
+                    </li>
+                    <li>
+                        <p>[IJCAI] Zhiqiang kou, Haoyuan Xuan, Jiawei Tang, Hailin wang, Chao Tan, Jingyu Zhu, Jing Wang, Yuheng Jia, Xin Geng, 
+                                Inaccurate Label Distribution Learning with Dependency Noise</a>,
+                                International Joint Conference on Artiﬁcial Intelligence (IJCAI), Montreal, 16th – 22nd August, 2025. 
+                                </p>
+                    </li>
+
+                    <li>
+                        <p>[IJCAI] Zhiqiang kou, Si Qin, 
+                            Hailin Wang, Ming-Kun Xie, 
+                            Jing Wang, Shuo Chen, Yuheng Jia, Tongliang Liu, Mas, ashi Sugiyama, Xin Geng,
+                                Label Distribution Learning with Biased Annotations Assisted by Multi-Label Learning</a>,
+                                International Joint Conference on Artiﬁcial Intelligence (IJCAI), Montreal, 16th – 22nd August, 2025. 
+                                </p>
+                    </li>
